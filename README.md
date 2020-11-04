@@ -1,1 +1,2 @@
 # stumanage
+student management system
